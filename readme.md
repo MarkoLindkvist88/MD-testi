@@ -1,7 +1,7 @@
 # Harjoitus
-Tämä on jarjoitus
+Tämä on harjoitus
 
-Tämä on **lihavoitu** ja *kursivoitu
+Tämä on **lihavoitu** ja *kursivoitu*
 
 - lista
 + lista
@@ -16,4 +16,4 @@ git clone
 
 [Linkki-teksti] (https://net.centria.fi/)
 
-![kuva](kuvanlinkkituleetähän tai /assets/kuva.jpg jos koneella)
+![kuva](https://www.shutterstock.com/editorial/image-editorial/N9Tck8y2N5T9ka09Nzg4Ng==/muppets-2011-440nw-5885849ad.jpg)
